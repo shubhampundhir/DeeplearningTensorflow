@@ -1,156 +1,167 @@
 # DeeplearningTensorflow
 Deep learning using Keras and TensorFlow.
-Pandas
-Exercise: Creating, Reading and Writing
+## Pandas
+
+1. [Exercise: Creating, Reading and Writing](pandas/01-creating-reading-and-writing.ipynb)   
 You can't work with data if you can't read it. Get started here.
 
-Exercise: Indexing, Selecting & Assigning
+2. [Exercise: Indexing, Selecting & Assigning](pandas/02-indexing-selecting-assigning.ipynb)  
 Pro data scientists do this dozens of times a day. You can, too!
 
-Exercise: Summary Functions and Maps
+3. [Exercise: Summary Functions and Maps](pandas/03-summary-functions-and-maps.ipynb)   
 Extract insights from your data.
 
-Exercise: Grouping and Sorting
+4. [Exercise: Grouping and Sorting](pandas/04-grouping-and-sorting.ipynb)  
 Scale up your level of insight. The more complex the dataset, the more this matters.
 
-Exercise: Data Types and Missing Values
+5. [Exercise: Data Types and Missing Values](pandas/05-data-types-and-missing-values.ipynb)  
 Deal with the most common progress-blocking problems.
 
-Exercise: Renaming and Combining
+6. [Exercise: Renaming and Combining](pandas/06-renaming-and-combining.ipynb)  
 Data comes in from many sources. Help it all make sense together.
 
-Data Visualization
-Hello, Seaborn
+
+## Data Visualization
+
+1. [Hello, Seaborn](data_visualization/01-hello-seaborn.ipynb)   
 Your first introduction to coding for data visualization.
 
-Line Charts
+2. [Line Charts](data_visualization/02-line-charts.ipynb)  
 Visualize trends over time.
 
-Bar Charts and Heatmaps
+3. [Bar Charts and Heatmaps](data_visualization/03-bar-charts-and-heatmaps.ipynb)   
 Use color or length to compare categories in a dataset.
 
-Scatter Plots
+4. [Scatter Plots](data_visualization/04-scatter-plots.ipynb)  
 Leverage the coordinate plane to explore relationships between variables.
 
-Distributions
+5. [Distributions](data_visualization/05-distributions.ipynb)  
 Create histograms and density plots.
 
-Choosing Plot Types and Custom Styles
+6. [Choosing Plot Types and Custom Styles](data_visualization/06-choosing-plot-types-and-custom-styles.ipynb)  
 Customize your charts and make them look snazzy.
 
-Final Project
+7. [Final Project](data_visualization/07-final-project.ipynb)  
 Practice for real-world application.
 
-Intro to Machine Learning
-How Models Work
+
+## Intro to Machine Learning
+
+1. [How Models Work](https://www.kaggle.com/dansbecker/how-models-work)   
 The first step if you're new to machine learning.
 
-Basic Data Exploration
+2. [Basic Data Exploration](intro_to_machine_learning/02-explore-your-data.ipynb)  
 Load and understand your data.
 
-Your First Machine Learning Model
+3. [Your First Machine Learning Model](intro_to_machine_learning/03-your-first-machine-learning-model.ipynb)   
 Building your first model. Hurray!
 
-Model Validation
+4. [Model Validation](intro_to_machine_learning/04-model-validation.ipynb)  
 Measure the performance of your model ? so you can test and compare alternatives.
 
-Underfitting and Overfitting
+1. [Underfitting and Overfitting](intro_to_machine_learning/05-underfitting-and-overfitting.ipynb)  
 Fine-tune your model for better performance.
 
-Random Forests
+6. [Random Forests](intro_to_machine_learning/06-random-forests.ipynb)  
 Using a more sophisticated machine learning algorithm.
 
-Exercise: Machine Learning Competitions
+7. [Exercise: Machine Learning Competitions](intro_to_machine_learning/07-machine-learning-competitions.ipynb)  
 Enter the world of machine learning competitions to keep improving and see your progress.
 
-Intermediate Machine Learning
-Introduction
+
+## Intermediate Machine Learning
+
+1. [Introduction](intermediate_machine_learning/01-introduction.ipynb)   
 Review what you need for this Micro-Course.
 
-Missing Values
+2. [Missing Values](intermediate_machine_learning/02-missing-values.ipynb)  
 Missing values happen. Be prepared for this common challenge in real datasets.
 
-Categorical Variables
+3. [Categorical Variables](intermediate_machine_learning/03-categorical-variables.ipynb)   
 There's a lot of non-numeric data out there. Here's how to use it for machine learning.
 
-Pipelines
+4. [Pipelines](intermediate_machine_learning/04-pipelines.ipynb)  
 A critical skill for deploying (and even testing) complex models with pre-processing.
 
-Cross-Validation
+5. [Cross-Validation](intermediate_machine_learning/05-cross-validation.ipynb)  
 A better way to test your models.
 
-XGBoost
+6. [XGBoost](intermediate_machine_learning/06-xgboost.ipynb)  
 The most accurate modeling technique for structured data.
 
-Data Leakage
+7. [Data Leakage](intermediate_machine_learning/07-data-leakage.ipynb)  
 Find and fix this problem that ruins your model in subtle ways.
+## Intro to Deep Learning
 
-Intro to Deep Learning
-A Single Neuron
+1. [A Single Neuron](intro_to_deep_learning/01-a-single-neuron.ipynb)   
 Learn about linear units, the building blocks of deep learning.
 
-Deep Neural Networks
+2. [Deep Neural Networks](intro_to_deep_learning/02-deep-neural-networks.ipynb)   
 Add hidden layers to your network to uncover complex relationships.
 
-Stochastic Gradient Descent
+3. [Stochastic Gradient Descent](intro_to_deep_learning/03-stochastic-gradient-descent.ipynb)   
 Use Keras and Tensorflow to train your first neural network.
 
-Overfitting and Underfitting
+4. [Overfitting and Underfitting](intro_to_deep_learning/04-overfitting-and-underfitting.ipynb)   
 Improve performance with extra capacity or early stopping.
 
-Dropout and Batch Normalization
+5. [Dropout and Batch Normalization](intro_to_deep_learning/05-dropout-and-batch-normalization.ipynb)   
 Add these special layers to prevent overfitting and stabilize training.
 
-Binary Classification
+6. [Binary Classification](intro_to_deep_learning/06-binary-classification.ipynb)   
 Apply deep learning to another common task.
 
-Deep Learning
-Intro to DL for Computer Vision
+
+## Deep Learning
+
+1. [Intro to DL for Computer Vision](deep_learning/01-intro-to-dl-for-computer-vision.ipynb)   
 A quick overview of how models work on images.
 
-Building Models From Convolutions
+2. [Building Models From Convolutions](https://www.kaggle.com/dansbecker/building-models-from-convolutions)  
 Scale up from simple building blocks to models with beyond human capabilities.
 
-TensorFlow Programming
+3. [TensorFlow Programming](deep_learning/03-tensorflow-programming.ipynb)   
 Start writing code using TensorFlow and Keras.
 
-Transfer Learning
+4. [Transfer Learning](deep_learning/04-transfer-learning.ipynb)  
 A powerful technique to build highly accurate models even with limited data.
 
-Data Augmentation
+5. [Data Augmentation](deep_learning/05-data-augmentation.ipynb)  
 Learn a simple trick that effectively increases amount of data available for model training.
 
-A Deeper Understanding of Deep Learning
+6. [A Deeper Understanding of Deep Learning](https://www.kaggle.com/dansbecker/a-deeper-understanding-of-deep-learning)  
 How Stochastic Gradient Descent and Back-Propagation train your deep learning model.
 
-Deep Learning From Scratch
+7. [Deep Learning From Scratch](deep_learning/07-deep-learning-from-scratch.ipynb)  
 Build models without transfer learning. Especially important for uncommon image types.
 
-Dropout and Strides for Larger Models
+8. [Dropout and Strides for Larger Models](deep_learning/08-dropout-and-strides-for-larger-models.ipynb)  
 Make your models faster and reduce overfitting.
 
-Computer Vision
-The Convolutional Classifier
+
+## Computer Vision
+
+1. [The Convolutional Classifier](computer_vision/01-the-convolutional-classifier.ipynb)   
 Create your first computer vision model with Keras.
 
-Convolution and ReLU
+2. [Convolution and ReLU](computer_vision/02-convolution-and-relu.ipynb)   
 Discover how convnets create features with convolutional layers.
 
-Maximum Pooling
+3. [Maximum Pooling](computer_vision/03-maximum-pooling.ipynb)   
 Learn more about feature extraction with maximum pooling.
 
-The Sliding Window
+4. [The Sliding Window](computer_vision/04-the-sliding-window.ipynb)   
 Explore two important parameters: stride and padding.
 
-Custom Convnets
+5. [Custom Convnets](computer_vision/05-custom-convnets.ipynb)   
 Design your own convnet.
 
-Data Augmentation
+6. [Data Augmentation](computer_vision/06-data-augmentation.ipynb)   
 Boost performance by creating extra training data.
 
-Create Your First Submission
+7. [Create Your First Submission](https://www.kaggle.com/ryanholbrook/create-your-first-submission)   
 Use Kaggle's free TPUs to make a submission to the Petals to the Metal competition!
 
-Getting Started: TPUs + Cassava Leaf Disease
+8. [Getting Started: TPUs + Cassava Leaf Disease](https://www.kaggle.com/jessemostipak/getting-started-tpus-cassava-leaf-disease)   
 Use Kaggle's free TPUs to make a submission to the Cassava Leaf Disease Classification competition.
 
